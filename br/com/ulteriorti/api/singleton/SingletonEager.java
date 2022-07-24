@@ -1,4 +1,4 @@
-package br.com.ulteriorti.api;
+package br.com.ulteriorti.api.singleton;
 
 /**
  * Singleton apressado
